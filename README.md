@@ -1,6 +1,6 @@
 
-# NewsIt
-Developed a cross platform mobile application with react native to read news articles of different categories. 
+# Comboo
+Developed a cross platform mobile application with react native having calculator,todolist,weather data,clock. 
 
 
 
